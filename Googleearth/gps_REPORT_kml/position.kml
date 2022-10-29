@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+    <Placemark>
+            <name> Live_GPS </name>
+            <Point>
+                    <coordinates>79.13167729808481,10.78330930517404,0</coordinates>
+            </Point>
+    </Placemark>
+    </kml>
